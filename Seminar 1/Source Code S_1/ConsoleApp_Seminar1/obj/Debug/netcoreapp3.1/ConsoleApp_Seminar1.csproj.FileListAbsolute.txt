@@ -1,0 +1,14 @@
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\bin\Debug\netcoreapp3.1\ConsoleApp_Seminar1.exe
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\bin\Debug\netcoreapp3.1\ConsoleApp_Seminar1.deps.json
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\bin\Debug\netcoreapp3.1\ConsoleApp_Seminar1.runtimeconfig.json
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\bin\Debug\netcoreapp3.1\ConsoleApp_Seminar1.runtimeconfig.dev.json
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\bin\Debug\netcoreapp3.1\ConsoleApp_Seminar1.dll
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\bin\Debug\netcoreapp3.1\ConsoleApp_Seminar1.pdb
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\obj\Debug\netcoreapp3.1\ConsoleApp_Seminar1.csproj.AssemblyReference.cache
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\obj\Debug\netcoreapp3.1\ConsoleApp_Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\obj\Debug\netcoreapp3.1\ConsoleApp_Seminar1.AssemblyInfoInputs.cache
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\obj\Debug\netcoreapp3.1\ConsoleApp_Seminar1.AssemblyInfo.cs
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\obj\Debug\netcoreapp3.1\ConsoleApp_Seminar1.csproj.CoreCompileInputs.cache
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\obj\Debug\netcoreapp3.1\ConsoleApp_Seminar1.dll
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\obj\Debug\netcoreapp3.1\ConsoleApp_Seminar1.pdb
+C:\Users\Joan\source\repos\App\ConsoleApp_Seminar1\obj\Debug\netcoreapp3.1\ConsoleApp_Seminar1.genruntimeconfig.cache

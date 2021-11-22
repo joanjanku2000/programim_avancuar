@@ -1,0 +1,10 @@
+C:\Users\Joan\source\repos\Seminar2\Seminar2_FirstEx\bin\Debug\Seminar2_FirstEx.exe.config
+C:\Users\Joan\source\repos\Seminar2\Seminar2_FirstEx\bin\Debug\Seminar2_FirstEx.exe
+C:\Users\Joan\source\repos\Seminar2\Seminar2_FirstEx\bin\Debug\Seminar2_FirstEx.pdb
+C:\Users\Joan\source\repos\Seminar2\Seminar2_FirstEx\obj\Debug\Seminar2_FirstEx.csproj.AssemblyReference.cache
+C:\Users\Joan\source\repos\Seminar2\Seminar2_FirstEx\obj\Debug\Seminar2_FirstEx.Form1.resources
+C:\Users\Joan\source\repos\Seminar2\Seminar2_FirstEx\obj\Debug\Seminar2_FirstEx.Properties.Resources.resources
+C:\Users\Joan\source\repos\Seminar2\Seminar2_FirstEx\obj\Debug\Seminar2_FirstEx.csproj.GenerateResource.cache
+C:\Users\Joan\source\repos\Seminar2\Seminar2_FirstEx\obj\Debug\Seminar2_FirstEx.csproj.CoreCompileInputs.cache
+C:\Users\Joan\source\repos\Seminar2\Seminar2_FirstEx\obj\Debug\Seminar2_FirstEx.exe
+C:\Users\Joan\source\repos\Seminar2\Seminar2_FirstEx\obj\Debug\Seminar2_FirstEx.pdb
